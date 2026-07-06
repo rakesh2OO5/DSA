@@ -25,6 +25,7 @@ Each folder corresponds to a LeetCode problem and contains:
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rakesh2OO5/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/rakesh2OO5/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rakesh2OO5/DSA/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/rakesh2OO5/DSA/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rakesh2OO5/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -54,6 +55,7 @@ Each folder corresponds to a LeetCode problem and contains:
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/rakesh2OO5/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rakesh2OO5/DSA/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rakesh2OO5/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## Sorting
