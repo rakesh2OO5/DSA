@@ -53,6 +53,7 @@ Each folder corresponds to a LeetCode problem and contains:
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/rakesh2OO5/DSA/tree/master/0069-sqrtx) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/rakesh2OO5/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Two Pointers
 |  |
 | ------- |
