@@ -104,4 +104,5 @@ Each folder corresponds to a LeetCode problem and contains:
 |  |
 | ------- |
 | [0577-employee-bonus](https://github.com/rakesh2OO5/DSA/tree/master/0577-employee-bonus) |
+| [1075-project-employees-i](https://github.com/rakesh2OO5/DSA/tree/master/1075-project-employees-i) |
 <!---LeetCode Topics End-->
