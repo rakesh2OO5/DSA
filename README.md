@@ -27,6 +27,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0004-median-of-two-sorted-arrays](https://github.com/rakesh2OO5/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rakesh2OO5/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rakesh2OO5/DSA/tree/master/0027-remove-element) |
+| [0046-permutations](https://github.com/rakesh2OO5/DSA/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/rakesh2OO5/DSA/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rakesh2OO5/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/rakesh2OO5/DSA/tree/master/0283-move-zeroes) |
@@ -95,4 +96,8 @@ Each folder corresponds to a LeetCode problem and contains:
 | ------- |
 | [0013-roman-to-integer](https://github.com/rakesh2OO5/DSA/tree/master/0013-roman-to-integer) |
 | [1796-second-largest-digit-in-a-string](https://github.com/rakesh2OO5/DSA/tree/master/1796-second-largest-digit-in-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/rakesh2OO5/DSA/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
