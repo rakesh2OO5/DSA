@@ -53,6 +53,7 @@ Each folder corresponds to a LeetCode problem and contains:
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/rakesh2OO5/DSA/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/rakesh2OO5/DSA/tree/master/0069-sqrtx) |
 | [0509-fibonacci-number](https://github.com/rakesh2OO5/DSA/tree/master/0509-fibonacci-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/rakesh2OO5/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -78,6 +79,7 @@ Each folder corresponds to a LeetCode problem and contains:
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/rakesh2OO5/DSA/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/rakesh2OO5/DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
