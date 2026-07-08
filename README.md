@@ -53,6 +53,7 @@ Each folder corresponds to a LeetCode problem and contains:
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/rakesh2OO5/DSA/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/rakesh2OO5/DSA/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/rakesh2OO5/DSA/tree/master/0069-sqrtx) |
 | [0509-fibonacci-number](https://github.com/rakesh2OO5/DSA/tree/master/0509-fibonacci-number) |
@@ -71,6 +72,7 @@ Each folder corresponds to a LeetCode problem and contains:
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/rakesh2OO5/DSA/tree/master/0013-roman-to-integer) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rakesh2OO5/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Sliding Window
 |  |
@@ -85,4 +87,8 @@ Each folder corresponds to a LeetCode problem and contains:
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/rakesh2OO5/DSA/tree/master/0509-fibonacci-number) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/rakesh2OO5/DSA/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
