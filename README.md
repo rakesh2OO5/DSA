@@ -27,6 +27,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0004-median-of-two-sorted-arrays](https://github.com/rakesh2OO5/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rakesh2OO5/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rakesh2OO5/DSA/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/rakesh2OO5/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/rakesh2OO5/DSA/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/rakesh2OO5/DSA/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rakesh2OO5/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -53,6 +54,7 @@ Each folder corresponds to a LeetCode problem and contains:
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rakesh2OO5/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/rakesh2OO5/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/rakesh2OO5/DSA/tree/master/0069-sqrtx) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rakesh2OO5/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/rakesh2OO5/DSA/tree/master/0704-binary-search) |
