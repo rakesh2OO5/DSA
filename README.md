@@ -41,6 +41,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0704-binary-search](https://github.com/rakesh2OO5/DSA/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/rakesh2OO5/DSA/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/rakesh2OO5/DSA/tree/master/1288-remove-covered-intervals) |
+| [3731-find-missing-elements](https://github.com/rakesh2OO5/DSA/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -88,6 +89,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0414-third-maximum-number](https://github.com/rakesh2OO5/DSA/tree/master/0414-third-maximum-number) |
 | [0912-sort-an-array](https://github.com/rakesh2OO5/DSA/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/rakesh2OO5/DSA/tree/master/1288-remove-covered-intervals) |
+| [3731-find-missing-elements](https://github.com/rakesh2OO5/DSA/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -113,6 +115,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0013-roman-to-integer](https://github.com/rakesh2OO5/DSA/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/rakesh2OO5/DSA/tree/master/0141-linked-list-cycle) |
 | [1796-second-largest-digit-in-a-string](https://github.com/rakesh2OO5/DSA/tree/master/1796-second-largest-digit-in-a-string) |
+| [3731-find-missing-elements](https://github.com/rakesh2OO5/DSA/tree/master/3731-find-missing-elements) |
 ## Backtracking
 |  |
 | ------- |
