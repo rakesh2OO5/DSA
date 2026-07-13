@@ -167,4 +167,16 @@ Each folder corresponds to a LeetCode problem and contains:
 | ------- |
 | [0011-container-with-most-water](https://github.com/rakesh2OO5/DSA/tree/master/0011-container-with-most-water) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/rakesh2OO5/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+## Design
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/rakesh2OO5/DSA/tree/master/0933-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/rakesh2OO5/DSA/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/rakesh2OO5/DSA/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
