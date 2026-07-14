@@ -57,6 +57,7 @@ Each folder corresponds to a LeetCode problem and contains:
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/rakesh2OO5/DSA/tree/master/0053-maximum-subarray) |
+| [0392-is-subsequence](https://github.com/rakesh2OO5/DSA/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/rakesh2OO5/DSA/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
@@ -88,6 +89,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0141-linked-list-cycle](https://github.com/rakesh2OO5/DSA/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/rakesh2OO5/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/rakesh2OO5/DSA/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/rakesh2OO5/DSA/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rakesh2OO5/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0876-middle-of-the-linked-list](https://github.com/rakesh2OO5/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/rakesh2OO5/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -105,6 +107,7 @@ Each folder corresponds to a LeetCode problem and contains:
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/rakesh2OO5/DSA/tree/master/0013-roman-to-integer) |
+| [0392-is-subsequence](https://github.com/rakesh2OO5/DSA/tree/master/0392-is-subsequence) |
 | [0551-student-attendance-record-i](https://github.com/rakesh2OO5/DSA/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rakesh2OO5/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rakesh2OO5/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
