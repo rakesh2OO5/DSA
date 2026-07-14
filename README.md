@@ -135,6 +135,7 @@ Each folder corresponds to a LeetCode problem and contains:
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/rakesh2OO5/DSA/tree/master/0175-combine-two-tables) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/rakesh2OO5/DSA/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/rakesh2OO5/DSA/tree/master/0577-employee-bonus) |
 | [1075-project-employees-i](https://github.com/rakesh2OO5/DSA/tree/master/1075-project-employees-i) |
 | [1211-queries-quality-and-percentage](https://github.com/rakesh2OO5/DSA/tree/master/1211-queries-quality-and-percentage) |
