@@ -92,6 +92,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0392-is-subsequence](https://github.com/rakesh2OO5/DSA/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rakesh2OO5/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0876-middle-of-the-linked-list](https://github.com/rakesh2OO5/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [1768-merge-strings-alternately](https://github.com/rakesh2OO5/DSA/tree/master/1768-merge-strings-alternately) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/rakesh2OO5/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Sorting
 |  |
@@ -111,6 +112,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0551-student-attendance-record-i](https://github.com/rakesh2OO5/DSA/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rakesh2OO5/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rakesh2OO5/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1768-merge-strings-alternately](https://github.com/rakesh2OO5/DSA/tree/master/1768-merge-strings-alternately) |
 | [1796-second-largest-digit-in-a-string](https://github.com/rakesh2OO5/DSA/tree/master/1796-second-largest-digit-in-a-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/rakesh2OO5/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2490-circular-sentence](https://github.com/rakesh2OO5/DSA/tree/master/2490-circular-sentence) |
