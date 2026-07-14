@@ -6,14 +6,12 @@ public:
             mp[num]++;
         }
 
-        int currMax = -1;
-        int maxx = INT_MIN;
+        int maxx = -1;
         
         for(auto it:mp){
             if(it.first == it.second){
-                currMax = it.first;
+            maxx = max(maxx, it.first);
             }
-            maxx = max(maxx,currMax);
         }
 
         return maxx;
