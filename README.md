@@ -142,6 +142,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [1280-students-and-examinations](https://github.com/rakesh2OO5/DSA/tree/master/1280-students-and-examinations) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/rakesh2OO5/DSA/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/rakesh2OO5/DSA/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
+| [1934-confirmation-rate](https://github.com/rakesh2OO5/DSA/tree/master/1934-confirmation-rate) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
