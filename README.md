@@ -70,6 +70,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rakesh2OO5/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rakesh2OO5/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rakesh2OO5/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/rakesh2OO5/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/rakesh2OO5/DSA/tree/master/0704-binary-search) |
 ## Math
 |  |
@@ -79,6 +80,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0069-sqrtx](https://github.com/rakesh2OO5/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/rakesh2OO5/DSA/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/rakesh2OO5/DSA/tree/master/0509-fibonacci-number) |
+| [0633-sum-of-square-numbers](https://github.com/rakesh2OO5/DSA/tree/master/0633-sum-of-square-numbers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rakesh2OO5/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/rakesh2OO5/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Two Pointers
@@ -94,6 +96,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0283-move-zeroes](https://github.com/rakesh2OO5/DSA/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/rakesh2OO5/DSA/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rakesh2OO5/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0633-sum-of-square-numbers](https://github.com/rakesh2OO5/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/rakesh2OO5/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/rakesh2OO5/DSA/tree/master/1768-merge-strings-alternately) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/rakesh2OO5/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
