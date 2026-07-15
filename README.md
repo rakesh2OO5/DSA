@@ -216,4 +216,20 @@ Each folder corresponds to a LeetCode problem and contains:
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rakesh2OO5/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/rakesh2OO5/DSA/tree/master/0938-range-sum-of-bst) |
+## Depth-First Search
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/rakesh2OO5/DSA/tree/master/0938-range-sum-of-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/rakesh2OO5/DSA/tree/master/0938-range-sum-of-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/rakesh2OO5/DSA/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
