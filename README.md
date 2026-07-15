@@ -151,6 +151,7 @@ Each folder corresponds to a LeetCode problem and contains:
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/rakesh2OO5/DSA/tree/master/0175-combine-two-tables) |
+| [0176-second-highest-salary](https://github.com/rakesh2OO5/DSA/tree/master/0176-second-highest-salary) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/rakesh2OO5/DSA/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/rakesh2OO5/DSA/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/rakesh2OO5/DSA/tree/master/0584-find-customer-referee) |
