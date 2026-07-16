@@ -158,6 +158,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/rakesh2OO5/DSA/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/rakesh2OO5/DSA/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/rakesh2OO5/DSA/tree/master/0584-find-customer-referee) |
+| [0610-triangle-judgement](https://github.com/rakesh2OO5/DSA/tree/master/0610-triangle-judgement) |
 | [1075-project-employees-i](https://github.com/rakesh2OO5/DSA/tree/master/1075-project-employees-i) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/rakesh2OO5/DSA/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1211-queries-quality-and-percentage](https://github.com/rakesh2OO5/DSA/tree/master/1211-queries-quality-and-percentage) |
