@@ -248,6 +248,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/rakesh2OO5/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/rakesh2OO5/DSA/tree/master/0099-recover-binary-search-tree) |
+| [0207-course-schedule](https://github.com/rakesh2OO5/DSA/tree/master/0207-course-schedule) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/rakesh2OO5/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/rakesh2OO5/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0938-range-sum-of-bst](https://github.com/rakesh2OO5/DSA/tree/master/0938-range-sum-of-bst) |
@@ -270,9 +271,18 @@ Each folder corresponds to a LeetCode problem and contains:
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/rakesh2OO5/DSA/tree/master/0207-course-schedule) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/rakesh2OO5/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Simulation
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rakesh2OO5/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/rakesh2OO5/DSA/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/rakesh2OO5/DSA/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
