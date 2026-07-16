@@ -130,6 +130,7 @@ Each folder corresponds to a LeetCode problem and contains:
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/rakesh2OO5/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/rakesh2OO5/DSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/rakesh2OO5/DSA/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/rakesh2OO5/DSA/tree/master/0509-fibonacci-number) |
@@ -197,6 +198,7 @@ Each folder corresponds to a LeetCode problem and contains:
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/rakesh2OO5/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/rakesh2OO5/DSA/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/rakesh2OO5/DSA/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/rakesh2OO5/DSA/tree/master/0328-odd-even-linked-list) |
