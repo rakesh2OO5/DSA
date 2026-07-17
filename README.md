@@ -47,6 +47,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [1394-find-lucky-integer-in-an-array](https://github.com/rakesh2OO5/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/rakesh2OO5/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rakesh2OO5/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/rakesh2OO5/DSA/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [3467-transform-array-by-parity](https://github.com/rakesh2OO5/DSA/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/rakesh2OO5/DSA/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rakesh2OO5/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -150,6 +151,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [1331-rank-transform-of-an-array](https://github.com/rakesh2OO5/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/rakesh2OO5/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1796-second-largest-digit-in-a-string](https://github.com/rakesh2OO5/DSA/tree/master/1796-second-largest-digit-in-a-string) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/rakesh2OO5/DSA/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [3731-find-missing-elements](https://github.com/rakesh2OO5/DSA/tree/master/3731-find-missing-elements) |
 ## Backtracking
 |  |
@@ -285,4 +287,8 @@ Each folder corresponds to a LeetCode problem and contains:
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/rakesh2OO5/DSA/tree/master/0207-course-schedule) |
+## Matrix
+|  |
+| ------- |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/rakesh2OO5/DSA/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 <!---LeetCode Topics End-->
