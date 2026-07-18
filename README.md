@@ -34,6 +34,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rakesh2OO5/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rakesh2OO5/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/rakesh2OO5/DSA/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/rakesh2OO5/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rakesh2OO5/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/rakesh2OO5/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/rakesh2OO5/DSA/tree/master/0283-move-zeroes) |
@@ -148,6 +149,7 @@ Each folder corresponds to a LeetCode problem and contains:
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/rakesh2OO5/DSA/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/rakesh2OO5/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/rakesh2OO5/DSA/tree/master/0141-linked-list-cycle) |
 | [1331-rank-transform-of-an-array](https://github.com/rakesh2OO5/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/rakesh2OO5/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -293,4 +295,8 @@ Each folder corresponds to a LeetCode problem and contains:
 |  |
 | ------- |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/rakesh2OO5/DSA/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/rakesh2OO5/DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
