@@ -44,6 +44,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0643-maximum-average-subarray-i](https://github.com/rakesh2OO5/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/rakesh2OO5/DSA/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/rakesh2OO5/DSA/tree/master/0912-sort-an-array) |
+| [1260-shift-2d-grid](https://github.com/rakesh2OO5/DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/rakesh2OO5/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/rakesh2OO5/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/rakesh2OO5/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -291,6 +292,7 @@ Each folder corresponds to a LeetCode problem and contains:
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/rakesh2OO5/DSA/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rakesh2OO5/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Graph Theory
 |  |
@@ -303,6 +305,7 @@ Each folder corresponds to a LeetCode problem and contains:
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/rakesh2OO5/DSA/tree/master/1260-shift-2d-grid) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/rakesh2OO5/DSA/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Union-Find
 |  |
