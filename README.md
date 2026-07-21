@@ -106,6 +106,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0088-merge-sorted-array](https://github.com/rakesh2OO5/DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/rakesh2OO5/DSA/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/rakesh2OO5/DSA/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/rakesh2OO5/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/rakesh2OO5/DSA/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/rakesh2OO5/DSA/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rakesh2OO5/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -150,6 +151,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0050-powx-n](https://github.com/rakesh2OO5/DSA/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/rakesh2OO5/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/rakesh2OO5/DSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/rakesh2OO5/DSA/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/rakesh2OO5/DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -221,6 +223,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0141-linked-list-cycle](https://github.com/rakesh2OO5/DSA/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/rakesh2OO5/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/rakesh2OO5/DSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/rakesh2OO5/DSA/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/rakesh2OO5/DSA/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/rakesh2OO5/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
@@ -246,6 +249,7 @@ Each folder corresponds to a LeetCode problem and contains:
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/rakesh2OO5/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0234-palindrome-linked-list](https://github.com/rakesh2OO5/DSA/tree/master/0234-palindrome-linked-list) |
 ## Number Theory
 |  |
 | ------- |
