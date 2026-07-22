@@ -139,6 +139,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [1796-second-largest-digit-in-a-string](https://github.com/rakesh2OO5/DSA/tree/master/1796-second-largest-digit-in-a-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/rakesh2OO5/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2490-circular-sentence](https://github.com/rakesh2OO5/DSA/tree/master/2490-circular-sentence) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/rakesh2OO5/DSA/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -167,6 +168,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [1394-find-lucky-integer-in-an-array](https://github.com/rakesh2OO5/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1796-second-largest-digit-in-a-string](https://github.com/rakesh2OO5/DSA/tree/master/1796-second-largest-digit-in-a-string) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/rakesh2OO5/DSA/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/rakesh2OO5/DSA/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3731-find-missing-elements](https://github.com/rakesh2OO5/DSA/tree/master/3731-find-missing-elements) |
 ## Backtracking
 |  |
@@ -215,6 +217,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | ------- |
 | [0912-sort-an-array](https://github.com/rakesh2OO5/DSA/tree/master/0912-sort-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/rakesh2OO5/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/rakesh2OO5/DSA/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3467-transform-array-by-parity](https://github.com/rakesh2OO5/DSA/tree/master/3467-transform-array-by-parity) |
 ## Linked List
 |  |
