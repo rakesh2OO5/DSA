@@ -92,6 +92,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0050-powx-n](https://github.com/rakesh2OO5/DSA/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/rakesh2OO5/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/rakesh2OO5/DSA/tree/master/0189-rotate-array) |
+| [0326-power-of-three](https://github.com/rakesh2OO5/DSA/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/rakesh2OO5/DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rakesh2OO5/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/rakesh2OO5/DSA/tree/master/0633-sum-of-square-numbers) |
@@ -156,6 +157,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0203-remove-linked-list-elements](https://github.com/rakesh2OO5/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/rakesh2OO5/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/rakesh2OO5/DSA/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/rakesh2OO5/DSA/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/rakesh2OO5/DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
