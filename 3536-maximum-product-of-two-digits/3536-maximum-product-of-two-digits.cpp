@@ -1,15 +1,10 @@
 class Solution {
 public:
     int maxProduct(int n) {
-        vector<int> digits;
-        while(n>0){
-            int digit = n%10;
-            digits.push_back(digit);
-            n/=10;
-        }
         int first= 0;
         int second = 0;
-        for(int digit : digits){
+        while(n>0){
+            int digit = n%10;
             if(digit > first){
                 second=first;
                 first=digit;
@@ -17,6 +12,7 @@ public:
             else if(digit > second){
                 second = digit;
             }
+            n/=10;
         }
         return first * second;
     }
