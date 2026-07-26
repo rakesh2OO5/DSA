@@ -34,9 +34,7 @@ public:
     }
     
     bool empty() {
-        if(input.empty() && output.empty())
-            return true;
-        return false;
+        return input.empty() && output.empty();
     }
 };
 
