@@ -64,6 +64,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [3731-find-missing-elements](https://github.com/rakesh2OO5/DSA/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rakesh2OO5/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/rakesh2OO5/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3925-concatenate-array-with-reverse](https://github.com/rakesh2OO5/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -328,6 +329,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [1260-shift-2d-grid](https://github.com/rakesh2OO5/DSA/tree/master/1260-shift-2d-grid) |
 | [2293-min-max-game](https://github.com/rakesh2OO5/DSA/tree/master/2293-min-max-game) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rakesh2OO5/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3925-concatenate-array-with-reverse](https://github.com/rakesh2OO5/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Graph Theory
 |  |
 | ------- |
