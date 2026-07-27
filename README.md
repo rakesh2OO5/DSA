@@ -62,6 +62,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [3513-number-of-unique-xor-triplets-i](https://github.com/rakesh2OO5/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3731-find-missing-elements](https://github.com/rakesh2OO5/DSA/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rakesh2OO5/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/rakesh2OO5/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -329,6 +330,7 @@ Each folder corresponds to a LeetCode problem and contains:
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/rakesh2OO5/DSA/tree/master/0207-course-schedule) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/rakesh2OO5/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Topological Sort
 |  |
 | ------- |
@@ -338,6 +340,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | ------- |
 | [1260-shift-2d-grid](https://github.com/rakesh2OO5/DSA/tree/master/1260-shift-2d-grid) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/rakesh2OO5/DSA/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/rakesh2OO5/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Union-Find
 |  |
 | ------- |
