@@ -40,6 +40,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0189-rotate-array](https://github.com/rakesh2OO5/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/rakesh2OO5/DSA/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/rakesh2OO5/DSA/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/rakesh2OO5/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/rakesh2OO5/DSA/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/rakesh2OO5/DSA/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rakesh2OO5/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -71,6 +72,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0004-median-of-two-sorted-arrays](https://github.com/rakesh2OO5/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/rakesh2OO5/DSA/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rakesh2OO5/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0347-top-k-frequent-elements](https://github.com/rakesh2OO5/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/rakesh2OO5/DSA/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
@@ -135,6 +137,7 @@ Each folder corresponds to a LeetCode problem and contains:
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/rakesh2OO5/DSA/tree/master/0088-merge-sorted-array) |
+| [0347-top-k-frequent-elements](https://github.com/rakesh2OO5/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/rakesh2OO5/DSA/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rakesh2OO5/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/rakesh2OO5/DSA/tree/master/0912-sort-an-array) |
@@ -186,6 +189,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0013-roman-to-integer](https://github.com/rakesh2OO5/DSA/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/rakesh2OO5/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/rakesh2OO5/DSA/tree/master/0141-linked-list-cycle) |
+| [0347-top-k-frequent-elements](https://github.com/rakesh2OO5/DSA/tree/master/0347-top-k-frequent-elements) |
 | [1331-rank-transform-of-an-array](https://github.com/rakesh2OO5/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/rakesh2OO5/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1796-second-largest-digit-in-a-string](https://github.com/rakesh2OO5/DSA/tree/master/1796-second-largest-digit-in-a-string) |
@@ -224,6 +228,7 @@ Each folder corresponds to a LeetCode problem and contains:
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/rakesh2OO5/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/rakesh2OO5/DSA/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rakesh2OO5/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
@@ -233,6 +238,7 @@ Each folder corresponds to a LeetCode problem and contains:
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/rakesh2OO5/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/rakesh2OO5/DSA/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -241,6 +247,7 @@ Each folder corresponds to a LeetCode problem and contains:
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/rakesh2OO5/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/rakesh2OO5/DSA/tree/master/0912-sort-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/rakesh2OO5/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/rakesh2OO5/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -362,4 +369,8 @@ Each folder corresponds to a LeetCode problem and contains:
 | ------- |
 | [0338-counting-bits](https://github.com/rakesh2OO5/DSA/tree/master/0338-counting-bits) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/rakesh2OO5/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/rakesh2OO5/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
