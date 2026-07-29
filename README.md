@@ -72,6 +72,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0004-median-of-two-sorted-arrays](https://github.com/rakesh2OO5/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/rakesh2OO5/DSA/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rakesh2OO5/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0190-reverse-bits](https://github.com/rakesh2OO5/DSA/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/rakesh2OO5/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/rakesh2OO5/DSA/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
@@ -367,6 +368,7 @@ Each folder corresponds to a LeetCode problem and contains:
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/rakesh2OO5/DSA/tree/master/0190-reverse-bits) |
 | [0338-counting-bits](https://github.com/rakesh2OO5/DSA/tree/master/0338-counting-bits) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/rakesh2OO5/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Quickselect
