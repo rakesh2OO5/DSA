@@ -114,6 +114,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rakesh2OO5/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/rakesh2OO5/DSA/tree/master/2413-smallest-even-multiple) |
 | [2769-find-the-maximum-achievable-number](https://github.com/rakesh2OO5/DSA/tree/master/2769-find-the-maximum-achievable-number) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/rakesh2OO5/DSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rakesh2OO5/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rakesh2OO5/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/rakesh2OO5/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
