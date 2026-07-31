@@ -59,6 +59,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/rakesh2OO5/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rakesh2OO5/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rakesh2OO5/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1929-concatenation-of-array](https://github.com/rakesh2OO5/DSA/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rakesh2OO5/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/rakesh2OO5/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/rakesh2OO5/DSA/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
@@ -380,6 +381,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | ------- |
 | [0832-flipping-an-image](https://github.com/rakesh2OO5/DSA/tree/master/0832-flipping-an-image) |
 | [1260-shift-2d-grid](https://github.com/rakesh2OO5/DSA/tree/master/1260-shift-2d-grid) |
+| [1929-concatenation-of-array](https://github.com/rakesh2OO5/DSA/tree/master/1929-concatenation-of-array) |
 | [2293-min-max-game](https://github.com/rakesh2OO5/DSA/tree/master/2293-min-max-game) |
 | [3701-compute-alternating-sum](https://github.com/rakesh2OO5/DSA/tree/master/3701-compute-alternating-sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rakesh2OO5/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
