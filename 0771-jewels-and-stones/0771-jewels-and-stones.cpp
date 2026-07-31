@@ -7,9 +7,7 @@ public:
             mp[c]++;
         }
         for(char c:jewels){
-            if(stones.find(c)!=string::npos){
-                count+=mp[c];
-            }
+            count+=mp[c];
         }
         return count;
     }
