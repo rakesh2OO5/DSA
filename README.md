@@ -167,6 +167,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0541-reverse-string-ii](https://github.com/rakesh2OO5/DSA/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/rakesh2OO5/DSA/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rakesh2OO5/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0771-jewels-and-stones](https://github.com/rakesh2OO5/DSA/tree/master/0771-jewels-and-stones) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rakesh2OO5/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/rakesh2OO5/DSA/tree/master/1768-merge-strings-alternately) |
 | [1796-second-largest-digit-in-a-string](https://github.com/rakesh2OO5/DSA/tree/master/1796-second-largest-digit-in-a-string) |
@@ -206,6 +207,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0229-majority-element-ii](https://github.com/rakesh2OO5/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/rakesh2OO5/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/rakesh2OO5/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0771-jewels-and-stones](https://github.com/rakesh2OO5/DSA/tree/master/0771-jewels-and-stones) |
 | [1331-rank-transform-of-an-array](https://github.com/rakesh2OO5/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/rakesh2OO5/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1796-second-largest-digit-in-a-string](https://github.com/rakesh2OO5/DSA/tree/master/1796-second-largest-digit-in-a-string) |
