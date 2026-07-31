@@ -9,7 +9,6 @@ public:
                 val-=i;
             }
         }
-        val = -val;
-        return val;
+        return -(val);
     }
 };
