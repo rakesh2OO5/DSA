@@ -58,6 +58,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [1394-find-lucky-integer-in-an-array](https://github.com/rakesh2OO5/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/rakesh2OO5/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rakesh2OO5/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/rakesh2OO5/DSA/tree/master/1512-number-of-good-pairs) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rakesh2OO5/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/rakesh2OO5/DSA/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rakesh2OO5/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -114,6 +115,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0509-fibonacci-number](https://github.com/rakesh2OO5/DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rakesh2OO5/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/rakesh2OO5/DSA/tree/master/0633-sum-of-square-numbers) |
+| [1512-number-of-good-pairs](https://github.com/rakesh2OO5/DSA/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rakesh2OO5/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/rakesh2OO5/DSA/tree/master/2413-smallest-even-multiple) |
 | [2769-find-the-maximum-achievable-number](https://github.com/rakesh2OO5/DSA/tree/master/2769-find-the-maximum-achievable-number) |
@@ -222,6 +224,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0804-unique-morse-code-words](https://github.com/rakesh2OO5/DSA/tree/master/0804-unique-morse-code-words) |
 | [1331-rank-transform-of-an-array](https://github.com/rakesh2OO5/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/rakesh2OO5/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/rakesh2OO5/DSA/tree/master/1512-number-of-good-pairs) |
 | [1796-second-largest-digit-in-a-string](https://github.com/rakesh2OO5/DSA/tree/master/1796-second-largest-digit-in-a-string) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/rakesh2OO5/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/rakesh2OO5/DSA/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
@@ -283,6 +286,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0387-first-unique-character-in-a-string](https://github.com/rakesh2OO5/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0912-sort-an-array](https://github.com/rakesh2OO5/DSA/tree/master/0912-sort-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/rakesh2OO5/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/rakesh2OO5/DSA/tree/master/1512-number-of-good-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/rakesh2OO5/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rakesh2OO5/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/rakesh2OO5/DSA/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
