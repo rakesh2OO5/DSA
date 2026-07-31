@@ -49,6 +49,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0628-maximum-product-of-three-numbers](https://github.com/rakesh2OO5/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/rakesh2OO5/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/rakesh2OO5/DSA/tree/master/0704-binary-search) |
+| [0832-flipping-an-image](https://github.com/rakesh2OO5/DSA/tree/master/0832-flipping-an-image) |
 | [0912-sort-an-array](https://github.com/rakesh2OO5/DSA/tree/master/0912-sort-an-array) |
 | [1260-shift-2d-grid](https://github.com/rakesh2OO5/DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/rakesh2OO5/DSA/tree/master/1288-remove-covered-intervals) |
@@ -136,6 +137,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0541-reverse-string-ii](https://github.com/rakesh2OO5/DSA/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rakesh2OO5/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0633-sum-of-square-numbers](https://github.com/rakesh2OO5/DSA/tree/master/0633-sum-of-square-numbers) |
+| [0832-flipping-an-image](https://github.com/rakesh2OO5/DSA/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/rakesh2OO5/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/rakesh2OO5/DSA/tree/master/1768-merge-strings-alternately) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/rakesh2OO5/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -367,6 +369,7 @@ Each folder corresponds to a LeetCode problem and contains:
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/rakesh2OO5/DSA/tree/master/0832-flipping-an-image) |
 | [1260-shift-2d-grid](https://github.com/rakesh2OO5/DSA/tree/master/1260-shift-2d-grid) |
 | [2293-min-max-game](https://github.com/rakesh2OO5/DSA/tree/master/2293-min-max-game) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rakesh2OO5/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -383,6 +386,7 @@ Each folder corresponds to a LeetCode problem and contains:
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/rakesh2OO5/DSA/tree/master/0832-flipping-an-image) |
 | [1260-shift-2d-grid](https://github.com/rakesh2OO5/DSA/tree/master/1260-shift-2d-grid) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/rakesh2OO5/DSA/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/rakesh2OO5/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -396,6 +400,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0190-reverse-bits](https://github.com/rakesh2OO5/DSA/tree/master/0190-reverse-bits) |
 | [0338-counting-bits](https://github.com/rakesh2OO5/DSA/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/rakesh2OO5/DSA/tree/master/0476-number-complement) |
+| [0832-flipping-an-image](https://github.com/rakesh2OO5/DSA/tree/master/0832-flipping-an-image) |
 | [1009-complement-of-base-10-integer](https://github.com/rakesh2OO5/DSA/tree/master/1009-complement-of-base-10-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/rakesh2OO5/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Quickselect
