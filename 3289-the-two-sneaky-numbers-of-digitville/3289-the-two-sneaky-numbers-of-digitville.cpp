@@ -5,10 +5,8 @@ public:
         vector<int> result;
         for(int num:nums){
             mp[num]++;
-        }
-        for(auto& it:mp){
-            if(it.second==2)    
-                result.push_back(it.first);
+            if(mp[num]==2)    
+                result.push_back(num);
         }
         return result;
     }
