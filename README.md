@@ -197,6 +197,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [3110-score-of-a-string](https://github.com/rakesh2OO5/DSA/tree/master/3110-score-of-a-string) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/rakesh2OO5/DSA/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rakesh2OO5/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/rakesh2OO5/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3794-reverse-string-prefix](https://github.com/rakesh2OO5/DSA/tree/master/3794-reverse-string-prefix) |
 ## Sliding Window
 |  |
@@ -239,6 +240,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rakesh2OO5/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/rakesh2OO5/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/rakesh2OO5/DSA/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/rakesh2OO5/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3731-find-missing-elements](https://github.com/rakesh2OO5/DSA/tree/master/3731-find-missing-elements) |
 | [3945-digit-frequency-score](https://github.com/rakesh2OO5/DSA/tree/master/3945-digit-frequency-score) |
 ## Backtracking
@@ -301,6 +303,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/rakesh2OO5/DSA/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3467-transform-array-by-parity](https://github.com/rakesh2OO5/DSA/tree/master/3467-transform-array-by-parity) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rakesh2OO5/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/rakesh2OO5/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Linked List
 |  |
 | ------- |
