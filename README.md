@@ -200,6 +200,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rakesh2OO5/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rakesh2OO5/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3110-score-of-a-string](https://github.com/rakesh2OO5/DSA/tree/master/3110-score-of-a-string) |
+| [3146-permutation-difference-between-two-strings](https://github.com/rakesh2OO5/DSA/tree/master/3146-permutation-difference-between-two-strings) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/rakesh2OO5/DSA/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/rakesh2OO5/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rakesh2OO5/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -244,6 +245,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/rakesh2OO5/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/rakesh2OO5/DSA/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rakesh2OO5/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3146-permutation-difference-between-two-strings](https://github.com/rakesh2OO5/DSA/tree/master/3146-permutation-difference-between-two-strings) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/rakesh2OO5/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/rakesh2OO5/DSA/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/rakesh2OO5/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
