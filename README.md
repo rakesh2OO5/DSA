@@ -52,6 +52,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0704-binary-search](https://github.com/rakesh2OO5/DSA/tree/master/0704-binary-search) |
 | [0804-unique-morse-code-words](https://github.com/rakesh2OO5/DSA/tree/master/0804-unique-morse-code-words) |
 | [0832-flipping-an-image](https://github.com/rakesh2OO5/DSA/tree/master/0832-flipping-an-image) |
+| [0877-stone-game](https://github.com/rakesh2OO5/DSA/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/rakesh2OO5/DSA/tree/master/0912-sort-an-array) |
 | [1260-shift-2d-grid](https://github.com/rakesh2OO5/DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/rakesh2OO5/DSA/tree/master/1288-remove-covered-intervals) |
@@ -95,6 +96,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0392-is-subsequence](https://github.com/rakesh2OO5/DSA/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/rakesh2OO5/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/rakesh2OO5/DSA/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/rakesh2OO5/DSA/tree/master/0877-stone-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -119,6 +121,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0509-fibonacci-number](https://github.com/rakesh2OO5/DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rakesh2OO5/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/rakesh2OO5/DSA/tree/master/0633-sum-of-square-numbers) |
+| [0877-stone-game](https://github.com/rakesh2OO5/DSA/tree/master/0877-stone-game) |
 | [1512-number-of-good-pairs](https://github.com/rakesh2OO5/DSA/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rakesh2OO5/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/rakesh2OO5/DSA/tree/master/2413-smallest-even-multiple) |
@@ -446,4 +449,5 @@ Each folder corresponds to a LeetCode problem and contains:
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/rakesh2OO5/DSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/rakesh2OO5/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
