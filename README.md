@@ -440,6 +440,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0476-number-complement](https://github.com/rakesh2OO5/DSA/tree/master/0476-number-complement) |
 | [0832-flipping-an-image](https://github.com/rakesh2OO5/DSA/tree/master/0832-flipping-an-image) |
 | [1009-complement-of-base-10-integer](https://github.com/rakesh2OO5/DSA/tree/master/1009-complement-of-base-10-integer) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/rakesh2OO5/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/rakesh2OO5/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Quickselect
 |  |
