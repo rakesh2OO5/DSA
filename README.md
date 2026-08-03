@@ -163,6 +163,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0832-flipping-an-image](https://github.com/rakesh2OO5/DSA/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/rakesh2OO5/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/rakesh2OO5/DSA/tree/master/1768-merge-strings-alternately) |
+| [2000-reverse-prefix-of-word](https://github.com/rakesh2OO5/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/rakesh2OO5/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rakesh2OO5/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3794-reverse-string-prefix](https://github.com/rakesh2OO5/DSA/tree/master/3794-reverse-string-prefix) |
@@ -203,6 +204,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [1768-merge-strings-alternately](https://github.com/rakesh2OO5/DSA/tree/master/1768-merge-strings-alternately) |
 | [1796-second-largest-digit-in-a-string](https://github.com/rakesh2OO5/DSA/tree/master/1796-second-largest-digit-in-a-string) |
 | [1816-truncate-sentence](https://github.com/rakesh2OO5/DSA/tree/master/1816-truncate-sentence) |
+| [2000-reverse-prefix-of-word](https://github.com/rakesh2OO5/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/rakesh2OO5/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2490-circular-sentence](https://github.com/rakesh2OO5/DSA/tree/master/2490-circular-sentence) |
 | [2942-find-words-containing-character](https://github.com/rakesh2OO5/DSA/tree/master/2942-find-words-containing-character) |
@@ -363,6 +365,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0225-implement-stack-using-queues](https://github.com/rakesh2OO5/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/rakesh2OO5/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/rakesh2OO5/DSA/tree/master/0234-palindrome-linked-list) |
+| [2000-reverse-prefix-of-word](https://github.com/rakesh2OO5/DSA/tree/master/2000-reverse-prefix-of-word) |
 ## Number Theory
 |  |
 | ------- |
