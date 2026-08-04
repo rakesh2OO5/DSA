@@ -386,6 +386,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0098-validate-binary-search-tree](https://github.com/rakesh2OO5/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/rakesh2OO5/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rakesh2OO5/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/rakesh2OO5/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/rakesh2OO5/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/rakesh2OO5/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0938-range-sum-of-bst](https://github.com/rakesh2OO5/DSA/tree/master/0938-range-sum-of-bst) |
@@ -394,6 +395,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/rakesh2OO5/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/rakesh2OO5/DSA/tree/master/0099-recover-binary-search-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/rakesh2OO5/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/rakesh2OO5/DSA/tree/master/0207-course-schedule) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/rakesh2OO5/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/rakesh2OO5/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -413,12 +415,14 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0098-validate-binary-search-tree](https://github.com/rakesh2OO5/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/rakesh2OO5/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rakesh2OO5/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/rakesh2OO5/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/rakesh2OO5/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/rakesh2OO5/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0938-range-sum-of-bst](https://github.com/rakesh2OO5/DSA/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/rakesh2OO5/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/rakesh2OO5/DSA/tree/master/0207-course-schedule) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/rakesh2OO5/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Simulation
