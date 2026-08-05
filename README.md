@@ -50,6 +50,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0628-maximum-product-of-three-numbers](https://github.com/rakesh2OO5/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/rakesh2OO5/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/rakesh2OO5/DSA/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/rakesh2OO5/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0804-unique-morse-code-words](https://github.com/rakesh2OO5/DSA/tree/master/0804-unique-morse-code-words) |
 | [0832-flipping-an-image](https://github.com/rakesh2OO5/DSA/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/rakesh2OO5/DSA/tree/master/0877-stone-game) |
@@ -115,6 +116,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0540-single-element-in-a-sorted-array](https://github.com/rakesh2OO5/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/rakesh2OO5/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/rakesh2OO5/DSA/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/rakesh2OO5/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rakesh2OO5/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Math
 |  |
