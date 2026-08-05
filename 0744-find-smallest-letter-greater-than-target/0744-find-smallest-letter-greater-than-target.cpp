@@ -1,10 +1,9 @@
 class Solution {
 public:
     char nextGreatestLetter(vector<char>& letters, char target) {
-        for(char c : letters){
-            if(c>target)
-                return c;
-        }
+        auto it = upper_bound(letters.begin(),letters.end(),target);
+        if(it!=letters.end())
+            return *it;
         return letters[0];
     }
 };
