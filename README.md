@@ -132,6 +132,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0069-sqrtx](https://github.com/rakesh2OO5/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/rakesh2OO5/DSA/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/rakesh2OO5/DSA/tree/master/0326-power-of-three) |
+| [0412-fizz-buzz](https://github.com/rakesh2OO5/DSA/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/rakesh2OO5/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/rakesh2OO5/DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rakesh2OO5/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -211,6 +212,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0013-roman-to-integer](https://github.com/rakesh2OO5/DSA/tree/master/0013-roman-to-integer) |
 | [0387-first-unique-character-in-a-string](https://github.com/rakesh2OO5/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/rakesh2OO5/DSA/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/rakesh2OO5/DSA/tree/master/0412-fizz-buzz) |
 | [0541-reverse-string-ii](https://github.com/rakesh2OO5/DSA/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/rakesh2OO5/DSA/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rakesh2OO5/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -442,6 +444,7 @@ Each folder corresponds to a LeetCode problem and contains:
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/rakesh2OO5/DSA/tree/master/0412-fizz-buzz) |
 | [0832-flipping-an-image](https://github.com/rakesh2OO5/DSA/tree/master/0832-flipping-an-image) |
 | [1260-shift-2d-grid](https://github.com/rakesh2OO5/DSA/tree/master/1260-shift-2d-grid) |
 | [1688-count-of-matches-in-tournament](https://github.com/rakesh2OO5/DSA/tree/master/1688-count-of-matches-in-tournament) |
