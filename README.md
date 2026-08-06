@@ -148,6 +148,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/rakesh2OO5/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/rakesh2OO5/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/rakesh2OO5/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/rakesh2OO5/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rakesh2OO5/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/rakesh2OO5/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3516-find-closest-person](https://github.com/rakesh2OO5/DSA/tree/master/3516-find-closest-person) |
@@ -491,4 +492,8 @@ Each folder corresponds to a LeetCode problem and contains:
 | ------- |
 | [0486-predict-the-winner](https://github.com/rakesh2OO5/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/rakesh2OO5/DSA/tree/master/0877-stone-game) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/rakesh2OO5/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
