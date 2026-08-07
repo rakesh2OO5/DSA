@@ -82,6 +82,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rakesh2OO5/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/rakesh2OO5/DSA/tree/master/2942-find-words-containing-character) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/rakesh2OO5/DSA/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/rakesh2OO5/DSA/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/rakesh2OO5/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/rakesh2OO5/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/rakesh2OO5/DSA/tree/master/3285-find-indices-of-stable-mountains) |
@@ -289,6 +290,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [2215-find-the-difference-of-two-arrays](https://github.com/rakesh2OO5/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rakesh2OO5/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3146-permutation-difference-between-two-strings](https://github.com/rakesh2OO5/DSA/tree/master/3146-permutation-difference-between-two-strings) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/rakesh2OO5/DSA/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/rakesh2OO5/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/rakesh2OO5/DSA/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/rakesh2OO5/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
