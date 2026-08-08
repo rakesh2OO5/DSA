@@ -153,6 +153,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rakesh2OO5/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rakesh2OO5/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/rakesh2OO5/DSA/tree/master/2413-smallest-even-multiple) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/rakesh2OO5/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/rakesh2OO5/DSA/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/rakesh2OO5/DSA/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/rakesh2OO5/DSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
