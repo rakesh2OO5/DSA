@@ -225,6 +225,7 @@ Each folder corresponds to a LeetCode problem and contains:
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rakesh2OO5/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/rakesh2OO5/DSA/tree/master/0013-roman-to-integer) |
 | [0387-first-unique-character-in-a-string](https://github.com/rakesh2OO5/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/rakesh2OO5/DSA/tree/master/0392-is-subsequence) |
@@ -261,6 +262,7 @@ Each folder corresponds to a LeetCode problem and contains:
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rakesh2OO5/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/rakesh2OO5/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/rakesh2OO5/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rakesh2OO5/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -282,6 +284,7 @@ Each folder corresponds to a LeetCode problem and contains:
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rakesh2OO5/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/rakesh2OO5/DSA/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/rakesh2OO5/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/rakesh2OO5/DSA/tree/master/0141-linked-list-cycle) |
