@@ -387,6 +387,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0234-palindrome-linked-list](https://github.com/rakesh2OO5/DSA/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/rakesh2OO5/DSA/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/rakesh2OO5/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/rakesh2OO5/DSA/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/rakesh2OO5/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Greedy
 |  |
@@ -484,6 +485,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [1688-count-of-matches-in-tournament](https://github.com/rakesh2OO5/DSA/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/rakesh2OO5/DSA/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rakesh2OO5/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/rakesh2OO5/DSA/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2293-min-max-game](https://github.com/rakesh2OO5/DSA/tree/master/2293-min-max-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/rakesh2OO5/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/rakesh2OO5/DSA/tree/master/3498-reverse-degree-of-a-string) |
