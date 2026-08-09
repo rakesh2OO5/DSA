@@ -239,6 +239,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/rakesh2OO5/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/rakesh2OO5/DSA/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/rakesh2OO5/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/rakesh2OO5/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1768-merge-strings-alternately](https://github.com/rakesh2OO5/DSA/tree/master/1768-merge-strings-alternately) |
 | [1796-second-largest-digit-in-a-string](https://github.com/rakesh2OO5/DSA/tree/master/1796-second-largest-digit-in-a-string) |
 | [1816-truncate-sentence](https://github.com/rakesh2OO5/DSA/tree/master/1816-truncate-sentence) |
@@ -388,6 +389,7 @@ Each folder corresponds to a LeetCode problem and contains:
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rakesh2OO5/DSA/tree/master/0011-container-with-most-water) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/rakesh2OO5/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/rakesh2OO5/DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/rakesh2OO5/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rakesh2OO5/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
