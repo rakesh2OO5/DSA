@@ -97,6 +97,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [3701-compute-alternating-sum](https://github.com/rakesh2OO5/DSA/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/rakesh2OO5/DSA/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rakesh2OO5/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3895-count-digit-appearances](https://github.com/rakesh2OO5/DSA/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/rakesh2OO5/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/rakesh2OO5/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Divide and Conquer
@@ -175,6 +176,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/rakesh2OO5/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/rakesh2OO5/DSA/tree/master/3783-mirror-distance-of-an-integer) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rakesh2OO5/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3895-count-digit-appearances](https://github.com/rakesh2OO5/DSA/tree/master/3895-count-digit-appearances) |
 | [3945-digit-frequency-score](https://github.com/rakesh2OO5/DSA/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
 |  |
