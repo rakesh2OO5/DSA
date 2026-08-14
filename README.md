@@ -156,6 +156,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0633-sum-of-square-numbers](https://github.com/rakesh2OO5/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/rakesh2OO5/DSA/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rakesh2OO5/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1323-maximum-69-number](https://github.com/rakesh2OO5/DSA/tree/master/1323-maximum-69-number) |
 | [1486-xor-operation-in-an-array](https://github.com/rakesh2OO5/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/rakesh2OO5/DSA/tree/master/1512-number-of-good-pairs) |
 | [1688-count-of-matches-in-tournament](https://github.com/rakesh2OO5/DSA/tree/master/1688-count-of-matches-in-tournament) |
@@ -420,6 +421,7 @@ Each folder corresponds to a LeetCode problem and contains:
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rakesh2OO5/DSA/tree/master/0011-container-with-most-water) |
+| [1323-maximum-69-number](https://github.com/rakesh2OO5/DSA/tree/master/1323-maximum-69-number) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/rakesh2OO5/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/rakesh2OO5/DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/rakesh2OO5/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
