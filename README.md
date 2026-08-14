@@ -96,6 +96,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/rakesh2OO5/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/rakesh2OO5/DSA/tree/master/3285-find-indices-of-stable-mountains) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/rakesh2OO5/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/rakesh2OO5/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3467-transform-array-by-parity](https://github.com/rakesh2OO5/DSA/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rakesh2OO5/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/rakesh2OO5/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -175,6 +176,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [3280-convert-date-to-binary](https://github.com/rakesh2OO5/DSA/tree/master/3280-convert-date-to-binary) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/rakesh2OO5/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rakesh2OO5/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/rakesh2OO5/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rakesh2OO5/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/rakesh2OO5/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3516-find-closest-person](https://github.com/rakesh2OO5/DSA/tree/master/3516-find-closest-person) |
@@ -563,6 +565,7 @@ Each folder corresponds to a LeetCode problem and contains:
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rakesh2OO5/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/rakesh2OO5/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Game Theory
 |  |
 | ------- |
