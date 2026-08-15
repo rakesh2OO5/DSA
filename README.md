@@ -250,6 +250,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rakesh2OO5/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/rakesh2OO5/DSA/tree/master/0013-roman-to-integer) |
+| [0058-length-of-last-word](https://github.com/rakesh2OO5/DSA/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/rakesh2OO5/DSA/tree/master/0179-largest-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/rakesh2OO5/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/rakesh2OO5/DSA/tree/master/0392-is-subsequence) |
