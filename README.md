@@ -171,6 +171,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [2413-smallest-even-multiple](https://github.com/rakesh2OO5/DSA/tree/master/2413-smallest-even-multiple) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/rakesh2OO5/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rakesh2OO5/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2566-maximum-difference-by-remapping-a-digit](https://github.com/rakesh2OO5/DSA/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2652-sum-multiples](https://github.com/rakesh2OO5/DSA/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/rakesh2OO5/DSA/tree/master/2769-find-the-maximum-achievable-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/rakesh2OO5/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -439,6 +440,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/rakesh2OO5/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/rakesh2OO5/DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/rakesh2OO5/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2566-maximum-difference-by-remapping-a-digit](https://github.com/rakesh2OO5/DSA/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rakesh2OO5/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rakesh2OO5/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Design
