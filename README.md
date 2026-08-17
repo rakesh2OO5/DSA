@@ -253,6 +253,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rakesh2OO5/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/rakesh2OO5/DSA/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/rakesh2OO5/DSA/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/rakesh2OO5/DSA/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/rakesh2OO5/DSA/tree/master/0179-largest-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/rakesh2OO5/DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -468,6 +469,7 @@ Each folder corresponds to a LeetCode problem and contains:
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/rakesh2OO5/DSA/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/rakesh2OO5/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/rakesh2OO5/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/rakesh2OO5/DSA/tree/master/0234-palindrome-linked-list) |
@@ -617,4 +619,8 @@ Each folder corresponds to a LeetCode problem and contains:
 |  |
 | ------- |
 | [1859-sorting-the-sentence](https://github.com/rakesh2OO5/DSA/tree/master/1859-sorting-the-sentence) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/rakesh2OO5/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
