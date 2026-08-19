@@ -69,6 +69,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [1470-shuffle-the-array](https://github.com/rakesh2OO5/DSA/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/rakesh2OO5/DSA/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/rakesh2OO5/DSA/tree/master/1528-shuffle-string) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/rakesh2OO5/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/rakesh2OO5/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/rakesh2OO5/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/rakesh2OO5/DSA/tree/master/1720-decode-xored-array) |
@@ -238,6 +239,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [1331-rank-transform-of-an-array](https://github.com/rakesh2OO5/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rakesh2OO5/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rakesh2OO5/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/rakesh2OO5/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1859-sorting-the-sentence](https://github.com/rakesh2OO5/DSA/tree/master/1859-sorting-the-sentence) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/rakesh2OO5/DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2418-sort-the-people](https://github.com/rakesh2OO5/DSA/tree/master/2418-sort-the-people) |
@@ -336,6 +338,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rakesh2OO5/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/rakesh2OO5/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/rakesh2OO5/DSA/tree/master/1512-number-of-good-pairs) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/rakesh2OO5/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/rakesh2OO5/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/rakesh2OO5/DSA/tree/master/1796-second-largest-digit-in-a-string) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/rakesh2OO5/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
