@@ -69,6 +69,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [1470-shuffle-the-array](https://github.com/rakesh2OO5/DSA/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/rakesh2OO5/DSA/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/rakesh2OO5/DSA/tree/master/1528-shuffle-string) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/rakesh2OO5/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/rakesh2OO5/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/rakesh2OO5/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/rakesh2OO5/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -167,6 +168,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [1323-maximum-69-number](https://github.com/rakesh2OO5/DSA/tree/master/1323-maximum-69-number) |
 | [1486-xor-operation-in-an-array](https://github.com/rakesh2OO5/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/rakesh2OO5/DSA/tree/master/1512-number-of-good-pairs) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/rakesh2OO5/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1688-count-of-matches-in-tournament](https://github.com/rakesh2OO5/DSA/tree/master/1688-count-of-matches-in-tournament) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rakesh2OO5/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rakesh2OO5/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -239,6 +241,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [1331-rank-transform-of-an-array](https://github.com/rakesh2OO5/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rakesh2OO5/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rakesh2OO5/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/rakesh2OO5/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/rakesh2OO5/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1859-sorting-the-sentence](https://github.com/rakesh2OO5/DSA/tree/master/1859-sorting-the-sentence) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/rakesh2OO5/DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -448,6 +451,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0011-container-with-most-water](https://github.com/rakesh2OO5/DSA/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/rakesh2OO5/DSA/tree/master/0179-largest-number) |
 | [1323-maximum-69-number](https://github.com/rakesh2OO5/DSA/tree/master/1323-maximum-69-number) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/rakesh2OO5/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/rakesh2OO5/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/rakesh2OO5/DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/rakesh2OO5/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -605,6 +609,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | ------- |
 | [0486-predict-the-winner](https://github.com/rakesh2OO5/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/rakesh2OO5/DSA/tree/master/0877-stone-game) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/rakesh2OO5/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [3227-vowels-game-in-a-string](https://github.com/rakesh2OO5/DSA/tree/master/3227-vowels-game-in-a-string) |
 ## Enumeration
 |  |
