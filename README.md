@@ -97,6 +97,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rakesh2OO5/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rakesh2OO5/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/rakesh2OO5/DSA/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/rakesh2OO5/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/rakesh2OO5/DSA/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/rakesh2OO5/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/rakesh2OO5/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -553,6 +554,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [2161-partition-array-according-to-given-pivot](https://github.com/rakesh2OO5/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/rakesh2OO5/DSA/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2293-min-max-game](https://github.com/rakesh2OO5/DSA/tree/master/2293-min-max-game) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/rakesh2OO5/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/rakesh2OO5/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/rakesh2OO5/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/rakesh2OO5/DSA/tree/master/3701-compute-alternating-sum) |
