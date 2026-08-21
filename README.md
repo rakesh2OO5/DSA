@@ -59,6 +59,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0877-stone-game](https://github.com/rakesh2OO5/DSA/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/rakesh2OO5/DSA/tree/master/0912-sort-an-array) |
 | [1260-shift-2d-grid](https://github.com/rakesh2OO5/DSA/tree/master/1260-shift-2d-grid) |
+| [1266-minimum-time-visiting-all-points](https://github.com/rakesh2OO5/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1288-remove-covered-intervals](https://github.com/rakesh2OO5/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/rakesh2OO5/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rakesh2OO5/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -166,6 +167,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0628-maximum-product-of-three-numbers](https://github.com/rakesh2OO5/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/rakesh2OO5/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/rakesh2OO5/DSA/tree/master/0877-stone-game) |
+| [1266-minimum-time-visiting-all-points](https://github.com/rakesh2OO5/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rakesh2OO5/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1323-maximum-69-number](https://github.com/rakesh2OO5/DSA/tree/master/1323-maximum-69-number) |
 | [1486-xor-operation-in-an-array](https://github.com/rakesh2OO5/DSA/tree/master/1486-xor-operation-in-an-array) |
@@ -638,4 +640,8 @@ Each folder corresponds to a LeetCode problem and contains:
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rakesh2OO5/DSA/tree/master/0020-valid-parentheses) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/rakesh2OO5/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
