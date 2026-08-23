@@ -178,6 +178,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rakesh2OO5/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/rakesh2OO5/DSA/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/rakesh2OO5/DSA/tree/master/2413-smallest-even-multiple) |
+| [2485-find-the-pivot-integer](https://github.com/rakesh2OO5/DSA/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/rakesh2OO5/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rakesh2OO5/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/rakesh2OO5/DSA/tree/master/2566-maximum-difference-by-remapping-a-digit) |
@@ -611,6 +612,7 @@ Each folder corresponds to a LeetCode problem and contains:
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rakesh2OO5/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [2485-find-the-pivot-integer](https://github.com/rakesh2OO5/DSA/tree/master/2485-find-the-pivot-integer) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/rakesh2OO5/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Game Theory
 |  |
