@@ -112,6 +112,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [3513-number-of-unique-xor-triplets-i](https://github.com/rakesh2OO5/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3701-compute-alternating-sum](https://github.com/rakesh2OO5/DSA/tree/master/3701-compute-alternating-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/rakesh2OO5/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/rakesh2OO5/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/rakesh2OO5/DSA/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rakesh2OO5/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3895-count-digit-appearances](https://github.com/rakesh2OO5/DSA/tree/master/3895-count-digit-appearances) |
@@ -368,6 +369,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/rakesh2OO5/DSA/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rakesh2OO5/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/rakesh2OO5/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/rakesh2OO5/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/rakesh2OO5/DSA/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/rakesh2OO5/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/rakesh2OO5/DSA/tree/master/3945-digit-frequency-score) |
