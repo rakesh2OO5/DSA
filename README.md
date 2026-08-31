@@ -66,6 +66,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rakesh2OO5/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/rakesh2OO5/DSA/tree/master/1389-create-target-array-in-the-given-order) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/rakesh2OO5/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rakesh2OO5/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/rakesh2OO5/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rakesh2OO5/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/rakesh2OO5/DSA/tree/master/1470-shuffle-the-array) |
@@ -321,6 +322,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0003-longest-substring-without-repeating-characters](https://github.com/rakesh2OO5/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/rakesh2OO5/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/rakesh2OO5/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rakesh2OO5/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rakesh2OO5/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rakesh2OO5/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rakesh2OO5/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -627,6 +629,7 @@ Each folder corresponds to a LeetCode problem and contains:
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rakesh2OO5/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rakesh2OO5/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2485-find-the-pivot-integer](https://github.com/rakesh2OO5/DSA/tree/master/2485-find-the-pivot-integer) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/rakesh2OO5/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Game Theory
