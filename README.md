@@ -27,6 +27,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0001-two-sum](https://github.com/rakesh2OO5/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/rakesh2OO5/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/rakesh2OO5/DSA/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/rakesh2OO5/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rakesh2OO5/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rakesh2OO5/DSA/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rakesh2OO5/DSA/tree/master/0033-search-in-rotated-sorted-array) |
@@ -214,6 +215,7 @@ Each folder corresponds to a LeetCode problem and contains:
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rakesh2OO5/DSA/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/rakesh2OO5/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rakesh2OO5/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rakesh2OO5/DSA/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rakesh2OO5/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -241,6 +243,7 @@ Each folder corresponds to a LeetCode problem and contains:
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/rakesh2OO5/DSA/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/rakesh2OO5/DSA/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/rakesh2OO5/DSA/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/rakesh2OO5/DSA/tree/master/0229-majority-element-ii) |
