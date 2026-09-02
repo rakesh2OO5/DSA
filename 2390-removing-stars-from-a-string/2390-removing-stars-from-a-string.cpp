@@ -1,14 +1,14 @@
 class Solution {
 public:
     string removeStars(string s) {
-        string ans;
-        for (char c : s) {
-            if (c == '*') {
-                ans.pop_back();
-            } else {
-                ans.push_back(c);
+        string result = "";
+        for(char c:s){
+            if(c!='*'){
+                result.push_back(c);
+            }else{
+                result.pop_back();
             }
         }
-        return ans;
+        return result;
     }
 };
