@@ -176,6 +176,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [1266-minimum-time-visiting-all-points](https://github.com/rakesh2OO5/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rakesh2OO5/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1323-maximum-69-number](https://github.com/rakesh2OO5/DSA/tree/master/1323-maximum-69-number) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/rakesh2OO5/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1486-xor-operation-in-an-array](https://github.com/rakesh2OO5/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/rakesh2OO5/DSA/tree/master/1512-number-of-good-pairs) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/rakesh2OO5/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
