@@ -123,6 +123,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [3895-count-digit-appearances](https://github.com/rakesh2OO5/DSA/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/rakesh2OO5/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/rakesh2OO5/DSA/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/rakesh2OO5/DSA/tree/master/3904-smallest-stable-index-ii) |
 | [3925-concatenate-array-with-reverse](https://github.com/rakesh2OO5/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Divide and Conquer
 |  |
@@ -640,6 +641,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [2485-find-the-pivot-integer](https://github.com/rakesh2OO5/DSA/tree/master/2485-find-the-pivot-integer) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/rakesh2OO5/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3903-smallest-stable-index-i](https://github.com/rakesh2OO5/DSA/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/rakesh2OO5/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Game Theory
 |  |
 | ------- |
