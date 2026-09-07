@@ -35,6 +35,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0035-search-insert-position](https://github.com/rakesh2OO5/DSA/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/rakesh2OO5/DSA/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/rakesh2OO5/DSA/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/rakesh2OO5/DSA/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rakesh2OO5/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rakesh2OO5/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/rakesh2OO5/DSA/tree/master/0088-merge-sorted-array) |
@@ -398,6 +399,7 @@ Each folder corresponds to a LeetCode problem and contains:
 |  |
 | ------- |
 | [0046-permutations](https://github.com/rakesh2OO5/DSA/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/rakesh2OO5/DSA/tree/master/0078-subsets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rakesh2OO5/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/rakesh2OO5/DSA/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Database
@@ -621,6 +623,7 @@ Each folder corresponds to a LeetCode problem and contains:
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/rakesh2OO5/DSA/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/rakesh2OO5/DSA/tree/master/0190-reverse-bits) |
 | [0338-counting-bits](https://github.com/rakesh2OO5/DSA/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/rakesh2OO5/DSA/tree/master/0461-hamming-distance) |
