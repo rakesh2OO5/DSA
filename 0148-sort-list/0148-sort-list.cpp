@@ -3,13 +3,13 @@ public:
     ListNode* sortList(ListNode* head) {
         vector<int> nums;
         ListNode* temp = head;
-        while (temp) {
+        while(temp){
             nums.push_back(temp->val);
             temp = temp->next;
         }
-        sort(nums.begin(), nums.end());
+        sort(nums.begin(),nums.end());
         temp = head;
-        for (int num : nums) {
+        for(int num:nums){
             temp->val = num;
             temp = temp->next;
         }
