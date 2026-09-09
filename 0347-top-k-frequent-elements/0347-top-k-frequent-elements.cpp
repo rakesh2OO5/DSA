@@ -5,7 +5,7 @@ public:
         for(int num:nums){
             mp[num]++;
         }
-        int n=nums.size();
+        int n= nums.size();
         vector<vector<int>> bucket(n+1);
         for(auto& it:mp){
             int val = it.first;
@@ -14,9 +14,9 @@ public:
         }
         vector<int> result;
         for(int i=n;i>0;i--){
-            if(bucket[i].size() == 0) continue;
+            if(bucket[i].size()==0) continue;
 
-            while(bucket[i].size() > 0 && k>0){
+            while(bucket[i].size()>0 && k>0){
                 result.push_back(bucket[i].back());
                 bucket[i].pop_back();
                 k--;
