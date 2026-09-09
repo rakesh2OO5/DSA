@@ -135,6 +135,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0004-median-of-two-sorted-arrays](https://github.com/rakesh2OO5/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/rakesh2OO5/DSA/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rakesh2OO5/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/rakesh2OO5/DSA/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/rakesh2OO5/DSA/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/rakesh2OO5/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/rakesh2OO5/DSA/tree/master/0912-sort-an-array) |
@@ -233,6 +234,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rakesh2OO5/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/rakesh2OO5/DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/rakesh2OO5/DSA/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/rakesh2OO5/DSA/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/rakesh2OO5/DSA/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/rakesh2OO5/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/rakesh2OO5/DSA/tree/master/0283-move-zeroes) |
@@ -257,6 +259,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | ------- |
 | [0015-3sum](https://github.com/rakesh2OO5/DSA/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/rakesh2OO5/DSA/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/rakesh2OO5/DSA/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/rakesh2OO5/DSA/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/rakesh2OO5/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/rakesh2OO5/DSA/tree/master/0229-majority-element-ii) |
@@ -447,6 +450,7 @@ Each folder corresponds to a LeetCode problem and contains:
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/rakesh2OO5/DSA/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/rakesh2OO5/DSA/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -483,6 +487,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/rakesh2OO5/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/rakesh2OO5/DSA/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/rakesh2OO5/DSA/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/rakesh2OO5/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/rakesh2OO5/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/rakesh2OO5/DSA/tree/master/0234-palindrome-linked-list) |
