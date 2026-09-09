@@ -47,6 +47,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0189-rotate-array](https://github.com/rakesh2OO5/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/rakesh2OO5/DSA/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/rakesh2OO5/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/rakesh2OO5/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/rakesh2OO5/DSA/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/rakesh2OO5/DSA/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/rakesh2OO5/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -257,6 +258,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0015-3sum](https://github.com/rakesh2OO5/DSA/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/rakesh2OO5/DSA/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/rakesh2OO5/DSA/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/rakesh2OO5/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/rakesh2OO5/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/rakesh2OO5/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/rakesh2OO5/DSA/tree/master/0414-third-maximum-number) |
@@ -367,6 +369,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0041-first-missing-positive](https://github.com/rakesh2OO5/DSA/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/rakesh2OO5/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/rakesh2OO5/DSA/tree/master/0141-linked-list-cycle) |
+| [0217-contains-duplicate](https://github.com/rakesh2OO5/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/rakesh2OO5/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/rakesh2OO5/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/rakesh2OO5/DSA/tree/master/0387-first-unique-character-in-a-string) |
