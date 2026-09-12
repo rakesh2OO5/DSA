@@ -535,6 +535,7 @@ Each folder corresponds to a LeetCode problem and contains:
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rakesh2OO5/DSA/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/rakesh2OO5/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/rakesh2OO5/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/rakesh2OO5/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/rakesh2OO5/DSA/tree/master/0234-palindrome-linked-list) |
@@ -556,6 +557,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0099-recover-binary-search-tree](https://github.com/rakesh2OO5/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rakesh2OO5/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rakesh2OO5/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/rakesh2OO5/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/rakesh2OO5/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/rakesh2OO5/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/rakesh2OO5/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -568,6 +570,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0098-validate-binary-search-tree](https://github.com/rakesh2OO5/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/rakesh2OO5/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rakesh2OO5/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/rakesh2OO5/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/rakesh2OO5/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/rakesh2OO5/DSA/tree/master/0207-course-schedule) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/rakesh2OO5/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -590,6 +593,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0099-recover-binary-search-tree](https://github.com/rakesh2OO5/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rakesh2OO5/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rakesh2OO5/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/rakesh2OO5/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/rakesh2OO5/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/rakesh2OO5/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/rakesh2OO5/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
