@@ -57,6 +57,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0540-single-element-in-a-sorted-array](https://github.com/rakesh2OO5/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rakesh2OO5/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/rakesh2OO5/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0654-maximum-binary-tree](https://github.com/rakesh2OO5/DSA/tree/master/0654-maximum-binary-tree) |
 | [0704-binary-search](https://github.com/rakesh2OO5/DSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/rakesh2OO5/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0804-unique-morse-code-words](https://github.com/rakesh2OO5/DSA/tree/master/0804-unique-morse-code-words) |
@@ -138,6 +139,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0148-sort-list](https://github.com/rakesh2OO5/DSA/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/rakesh2OO5/DSA/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/rakesh2OO5/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0654-maximum-binary-tree](https://github.com/rakesh2OO5/DSA/tree/master/0654-maximum-binary-tree) |
 | [0912-sort-an-array](https://github.com/rakesh2OO5/DSA/tree/master/0912-sort-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/rakesh2OO5/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Dynamic Programming
@@ -541,6 +543,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0225-implement-stack-using-queues](https://github.com/rakesh2OO5/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/rakesh2OO5/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/rakesh2OO5/DSA/tree/master/0234-palindrome-linked-list) |
+| [0654-maximum-binary-tree](https://github.com/rakesh2OO5/DSA/tree/master/0654-maximum-binary-tree) |
 | [2000-reverse-prefix-of-word](https://github.com/rakesh2OO5/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/rakesh2OO5/DSA/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2390-removing-stars-from-a-string](https://github.com/rakesh2OO5/DSA/tree/master/2390-removing-stars-from-a-string) |
@@ -564,6 +567,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0501-find-mode-in-binary-search-tree](https://github.com/rakesh2OO5/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/rakesh2OO5/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/rakesh2OO5/DSA/tree/master/0538-convert-bst-to-greater-tree) |
+| [0654-maximum-binary-tree](https://github.com/rakesh2OO5/DSA/tree/master/0654-maximum-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/rakesh2OO5/DSA/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/rakesh2OO5/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/rakesh2OO5/DSA/tree/master/1382-balance-a-binary-search-tree) |
@@ -609,6 +613,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0501-find-mode-in-binary-search-tree](https://github.com/rakesh2OO5/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/rakesh2OO5/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/rakesh2OO5/DSA/tree/master/0538-convert-bst-to-greater-tree) |
+| [0654-maximum-binary-tree](https://github.com/rakesh2OO5/DSA/tree/master/0654-maximum-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/rakesh2OO5/DSA/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/rakesh2OO5/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/rakesh2OO5/DSA/tree/master/1382-balance-a-binary-search-tree) |
@@ -724,4 +729,12 @@ Each folder corresponds to a LeetCode problem and contains:
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/rakesh2OO5/DSA/tree/master/1266-minimum-time-visiting-all-points) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/rakesh2OO5/DSA/tree/master/0654-maximum-binary-tree) |
+## Cartesian Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/rakesh2OO5/DSA/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
