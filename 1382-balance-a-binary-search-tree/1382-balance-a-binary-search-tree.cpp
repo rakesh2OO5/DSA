@@ -20,7 +20,7 @@ public:
         inorder(root->right);
     }
 
-    TreeNode* solve(int left,int right,vector<int> inorderArray){
+    TreeNode* solve(int left,int right,vector<int>& inorderArray){
         if(left > right){
             return nullptr;
         }
