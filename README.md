@@ -310,6 +310,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0557-reverse-words-in-a-string-iii](https://github.com/rakesh2OO5/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0771-jewels-and-stones](https://github.com/rakesh2OO5/DSA/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/rakesh2OO5/DSA/tree/master/0804-unique-morse-code-words) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/rakesh2OO5/DSA/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1108-defanging-an-ip-address](https://github.com/rakesh2OO5/DSA/tree/master/1108-defanging-an-ip-address) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rakesh2OO5/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1528-shuffle-string](https://github.com/rakesh2OO5/DSA/tree/master/1528-shuffle-string) |
@@ -570,6 +571,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0538-convert-bst-to-greater-tree](https://github.com/rakesh2OO5/DSA/tree/master/0538-convert-bst-to-greater-tree) |
 | [0654-maximum-binary-tree](https://github.com/rakesh2OO5/DSA/tree/master/0654-maximum-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/rakesh2OO5/DSA/tree/master/0938-range-sum-of-bst) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/rakesh2OO5/DSA/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/rakesh2OO5/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/rakesh2OO5/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/rakesh2OO5/DSA/tree/master/2236-root-equals-sum-of-children) |
@@ -587,6 +589,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0530-minimum-absolute-difference-in-bst](https://github.com/rakesh2OO5/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/rakesh2OO5/DSA/tree/master/0538-convert-bst-to-greater-tree) |
 | [0938-range-sum-of-bst](https://github.com/rakesh2OO5/DSA/tree/master/0938-range-sum-of-bst) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/rakesh2OO5/DSA/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/rakesh2OO5/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/rakesh2OO5/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/rakesh2OO5/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -616,6 +619,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0538-convert-bst-to-greater-tree](https://github.com/rakesh2OO5/DSA/tree/master/0538-convert-bst-to-greater-tree) |
 | [0654-maximum-binary-tree](https://github.com/rakesh2OO5/DSA/tree/master/0654-maximum-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/rakesh2OO5/DSA/tree/master/0938-range-sum-of-bst) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/rakesh2OO5/DSA/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/rakesh2OO5/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/rakesh2OO5/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/rakesh2OO5/DSA/tree/master/2236-root-equals-sum-of-children) |
