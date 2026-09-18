@@ -253,6 +253,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0234-palindrome-linked-list](https://github.com/rakesh2OO5/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/rakesh2OO5/DSA/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/rakesh2OO5/DSA/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/rakesh2OO5/DSA/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/rakesh2OO5/DSA/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rakesh2OO5/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0633-sum-of-square-numbers](https://github.com/rakesh2OO5/DSA/tree/master/0633-sum-of-square-numbers) |
@@ -315,6 +316,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0387-first-unique-character-in-a-string](https://github.com/rakesh2OO5/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/rakesh2OO5/DSA/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/rakesh2OO5/DSA/tree/master/0412-fizz-buzz) |
+| [0443-string-compression](https://github.com/rakesh2OO5/DSA/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/rakesh2OO5/DSA/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/rakesh2OO5/DSA/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rakesh2OO5/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
