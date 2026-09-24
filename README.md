@@ -54,6 +54,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0213-house-robber-ii](https://github.com/rakesh2OO5/DSA/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/rakesh2OO5/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/rakesh2OO5/DSA/tree/master/0229-majority-element-ii) |
+| [0260-single-number-iii](https://github.com/rakesh2OO5/DSA/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/rakesh2OO5/DSA/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/rakesh2OO5/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/rakesh2OO5/DSA/tree/master/0414-third-maximum-number) |
@@ -709,6 +710,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | ------- |
 | [0078-subsets](https://github.com/rakesh2OO5/DSA/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/rakesh2OO5/DSA/tree/master/0190-reverse-bits) |
+| [0260-single-number-iii](https://github.com/rakesh2OO5/DSA/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/rakesh2OO5/DSA/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/rakesh2OO5/DSA/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/rakesh2OO5/DSA/tree/master/0476-number-complement) |
