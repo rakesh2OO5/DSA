@@ -166,6 +166,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0486-predict-the-winner](https://github.com/rakesh2OO5/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/rakesh2OO5/DSA/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/rakesh2OO5/DSA/tree/master/0877-stone-game) |
+| [1227-airplane-seat-assignment-probability](https://github.com/rakesh2OO5/DSA/tree/master/1227-airplane-seat-assignment-probability) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rakesh2OO5/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Binary Search
 |  |
@@ -202,6 +203,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0633-sum-of-square-numbers](https://github.com/rakesh2OO5/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/rakesh2OO5/DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/rakesh2OO5/DSA/tree/master/0877-stone-game) |
+| [1227-airplane-seat-assignment-probability](https://github.com/rakesh2OO5/DSA/tree/master/1227-airplane-seat-assignment-probability) |
 | [1266-minimum-time-visiting-all-points](https://github.com/rakesh2OO5/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rakesh2OO5/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1323-maximum-69-number](https://github.com/rakesh2OO5/DSA/tree/master/1323-maximum-69-number) |
@@ -764,6 +766,7 @@ Each folder corresponds to a LeetCode problem and contains:
 ## Brainteaser
 |  |
 | ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/rakesh2OO5/DSA/tree/master/1227-airplane-seat-assignment-probability) |
 | [2396-strictly-palindromic-number](https://github.com/rakesh2OO5/DSA/tree/master/2396-strictly-palindromic-number) |
 | [3227-vowels-game-in-a-string](https://github.com/rakesh2OO5/DSA/tree/master/3227-vowels-game-in-a-string) |
 ## Bubble Sort
@@ -792,4 +795,8 @@ Each folder corresponds to a LeetCode problem and contains:
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rakesh2OO5/DSA/tree/master/0169-majority-element) |
+## Probability and Statistics
+|  |
+| ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/rakesh2OO5/DSA/tree/master/1227-airplane-seat-assignment-probability) |
 <!---LeetCode Topics End-->
