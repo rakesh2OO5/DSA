@@ -65,6 +65,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0643-maximum-average-subarray-i](https://github.com/rakesh2OO5/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0654-maximum-binary-tree](https://github.com/rakesh2OO5/DSA/tree/master/0654-maximum-binary-tree) |
 | [0704-binary-search](https://github.com/rakesh2OO5/DSA/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/rakesh2OO5/DSA/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/rakesh2OO5/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0804-unique-morse-code-words](https://github.com/rakesh2OO5/DSA/tree/master/0804-unique-morse-code-words) |
 | [0832-flipping-an-image](https://github.com/rakesh2OO5/DSA/tree/master/0832-flipping-an-image) |
@@ -585,6 +586,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0232-implement-queue-using-stacks](https://github.com/rakesh2OO5/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/rakesh2OO5/DSA/tree/master/0234-palindrome-linked-list) |
 | [0654-maximum-binary-tree](https://github.com/rakesh2OO5/DSA/tree/master/0654-maximum-binary-tree) |
+| [0735-asteroid-collision](https://github.com/rakesh2OO5/DSA/tree/master/0735-asteroid-collision) |
 | [2000-reverse-prefix-of-word](https://github.com/rakesh2OO5/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/rakesh2OO5/DSA/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2390-removing-stars-from-a-string](https://github.com/rakesh2OO5/DSA/tree/master/2390-removing-stars-from-a-string) |
@@ -674,6 +676,7 @@ Each folder corresponds to a LeetCode problem and contains:
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/rakesh2OO5/DSA/tree/master/0412-fizz-buzz) |
+| [0735-asteroid-collision](https://github.com/rakesh2OO5/DSA/tree/master/0735-asteroid-collision) |
 | [0832-flipping-an-image](https://github.com/rakesh2OO5/DSA/tree/master/0832-flipping-an-image) |
 | [1260-shift-2d-grid](https://github.com/rakesh2OO5/DSA/tree/master/1260-shift-2d-grid) |
 | [1389-create-target-array-in-the-given-order](https://github.com/rakesh2OO5/DSA/tree/master/1389-create-target-array-in-the-given-order) |
