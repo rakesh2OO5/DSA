@@ -353,6 +353,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [1859-sorting-the-sentence](https://github.com/rakesh2OO5/DSA/tree/master/1859-sorting-the-sentence) |
 | [2000-reverse-prefix-of-word](https://github.com/rakesh2OO5/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/rakesh2OO5/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/rakesh2OO5/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/rakesh2OO5/DSA/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2390-removing-stars-from-a-string](https://github.com/rakesh2OO5/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2418-sort-the-people](https://github.com/rakesh2OO5/DSA/tree/master/2418-sort-the-people) |
@@ -436,6 +437,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/rakesh2OO5/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/rakesh2OO5/DSA/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/rakesh2OO5/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2351-first-letter-to-appear-twice](https://github.com/rakesh2OO5/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/rakesh2OO5/DSA/tree/master/2418-sort-the-people) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rakesh2OO5/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/rakesh2OO5/DSA/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -522,6 +524,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [1684-count-the-number-of-consistent-strings](https://github.com/rakesh2OO5/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/rakesh2OO5/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/rakesh2OO5/DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2351-first-letter-to-appear-twice](https://github.com/rakesh2OO5/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rakesh2OO5/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rakesh2OO5/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rakesh2OO5/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -733,6 +736,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [1720-decode-xored-array](https://github.com/rakesh2OO5/DSA/tree/master/1720-decode-xored-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rakesh2OO5/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/rakesh2OO5/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [2351-first-letter-to-appear-twice](https://github.com/rakesh2OO5/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/rakesh2OO5/DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/rakesh2OO5/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/rakesh2OO5/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
