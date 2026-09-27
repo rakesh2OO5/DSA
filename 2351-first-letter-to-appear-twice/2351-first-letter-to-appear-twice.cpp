@@ -8,6 +8,6 @@ public:
             }
             seen.insert(c);
         }
-        return 'a';
+        return NULL;
     }
 };
