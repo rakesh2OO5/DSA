@@ -343,6 +343,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rakesh2OO5/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rakesh2OO5/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1528-shuffle-string](https://github.com/rakesh2OO5/DSA/tree/master/1528-shuffle-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rakesh2OO5/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/rakesh2OO5/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/rakesh2OO5/DSA/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/rakesh2OO5/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -597,6 +598,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0654-maximum-binary-tree](https://github.com/rakesh2OO5/DSA/tree/master/0654-maximum-binary-tree) |
 | [0735-asteroid-collision](https://github.com/rakesh2OO5/DSA/tree/master/0735-asteroid-collision) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rakesh2OO5/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rakesh2OO5/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/rakesh2OO5/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/rakesh2OO5/DSA/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2390-removing-stars-from-a-string](https://github.com/rakesh2OO5/DSA/tree/master/2390-removing-stars-from-a-string) |
@@ -787,6 +789,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | ------- |
 | [0020-valid-parentheses](https://github.com/rakesh2OO5/DSA/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rakesh2OO5/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rakesh2OO5/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Geometry
 |  |
 | ------- |
