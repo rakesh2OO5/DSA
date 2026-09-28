@@ -196,6 +196,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0050-powx-n](https://github.com/rakesh2OO5/DSA/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/rakesh2OO5/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/rakesh2OO5/DSA/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/rakesh2OO5/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/rakesh2OO5/DSA/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/rakesh2OO5/DSA/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/rakesh2OO5/DSA/tree/master/0486-predict-the-winner) |
@@ -400,6 +401,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0050-powx-n](https://github.com/rakesh2OO5/DSA/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/rakesh2OO5/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/rakesh2OO5/DSA/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/rakesh2OO5/DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/rakesh2OO5/DSA/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/rakesh2OO5/DSA/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/rakesh2OO5/DSA/tree/master/0486-predict-the-winner) |
@@ -729,6 +731,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | ------- |
 | [0078-subsets](https://github.com/rakesh2OO5/DSA/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/rakesh2OO5/DSA/tree/master/0190-reverse-bits) |
+| [0231-power-of-two](https://github.com/rakesh2OO5/DSA/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/rakesh2OO5/DSA/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/rakesh2OO5/DSA/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/rakesh2OO5/DSA/tree/master/0461-hamming-distance) |
