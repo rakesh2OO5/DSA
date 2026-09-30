@@ -4,15 +4,18 @@ public:
         int first = INT_MAX;
         int second = INT_MAX;
 
-        for(int& num:nums){
-            if(num<=first){
+        for(int num : nums) {
+            if(num <= first) {
                 first = num;
-            }else if(num<=second){
+            }
+            else if(num <= second) {
                 second = num;
-            }else{
+            }
+            else {
                 return true;
             }
         }
+
         return false;
     }
 };
