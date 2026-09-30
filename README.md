@@ -56,6 +56,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0229-majority-element-ii](https://github.com/rakesh2OO5/DSA/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/rakesh2OO5/DSA/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/rakesh2OO5/DSA/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/rakesh2OO5/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/rakesh2OO5/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/rakesh2OO5/DSA/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/rakesh2OO5/DSA/tree/master/0485-max-consecutive-ones) |
@@ -562,6 +563,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0011-container-with-most-water](https://github.com/rakesh2OO5/DSA/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rakesh2OO5/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/rakesh2OO5/DSA/tree/master/0179-largest-number) |
+| [0334-increasing-triplet-subsequence](https://github.com/rakesh2OO5/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [1323-maximum-69-number](https://github.com/rakesh2OO5/DSA/tree/master/1323-maximum-69-number) |
 | [1382-balance-a-binary-search-tree](https://github.com/rakesh2OO5/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/rakesh2OO5/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -818,4 +820,8 @@ Each folder corresponds to a LeetCode problem and contains:
 |  |
 | ------- |
 | [1227-airplane-seat-assignment-probability](https://github.com/rakesh2OO5/DSA/tree/master/1227-airplane-seat-assignment-probability) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/rakesh2OO5/DSA/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
