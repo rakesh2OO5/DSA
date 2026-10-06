@@ -346,6 +346,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0557-reverse-words-in-a-string-iii](https://github.com/rakesh2OO5/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0771-jewels-and-stones](https://github.com/rakesh2OO5/DSA/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/rakesh2OO5/DSA/tree/master/0804-unique-morse-code-words) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/rakesh2OO5/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/rakesh2OO5/DSA/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1108-defanging-an-ip-address](https://github.com/rakesh2OO5/DSA/tree/master/1108-defanging-an-ip-address) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rakesh2OO5/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -570,6 +571,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rakesh2OO5/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/rakesh2OO5/DSA/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/rakesh2OO5/DSA/tree/master/0334-increasing-triplet-subsequence) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/rakesh2OO5/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1323-maximum-69-number](https://github.com/rakesh2OO5/DSA/tree/master/1323-maximum-69-number) |
 | [1382-balance-a-binary-search-tree](https://github.com/rakesh2OO5/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/rakesh2OO5/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -609,6 +611,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0234-palindrome-linked-list](https://github.com/rakesh2OO5/DSA/tree/master/0234-palindrome-linked-list) |
 | [0654-maximum-binary-tree](https://github.com/rakesh2OO5/DSA/tree/master/0654-maximum-binary-tree) |
 | [0735-asteroid-collision](https://github.com/rakesh2OO5/DSA/tree/master/0735-asteroid-collision) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/rakesh2OO5/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rakesh2OO5/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rakesh2OO5/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rakesh2OO5/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -804,6 +807,7 @@ Each folder corresponds to a LeetCode problem and contains:
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rakesh2OO5/DSA/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/rakesh2OO5/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rakesh2OO5/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rakesh2OO5/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rakesh2OO5/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
