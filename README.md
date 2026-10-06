@@ -38,6 +38,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0041-first-missing-positive](https://github.com/rakesh2OO5/DSA/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/rakesh2OO5/DSA/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/rakesh2OO5/DSA/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/rakesh2OO5/DSA/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/rakesh2OO5/DSA/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rakesh2OO5/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rakesh2OO5/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -200,6 +201,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0012-integer-to-roman](https://github.com/rakesh2OO5/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/rakesh2OO5/DSA/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/rakesh2OO5/DSA/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/rakesh2OO5/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/rakesh2OO5/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/rakesh2OO5/DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/rakesh2OO5/DSA/tree/master/0231-power-of-two) |
