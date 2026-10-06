@@ -2,17 +2,20 @@ class Solution {
 public:
     double myPow(double x, int n) {
         long long exp = n;
-        if(exp<0){
-            exp=-exp;
-            x=1/x;
+        long double base = x;
+        long double res = 1.0;
+        if (exp < 0) {
+            exp = -exp;
+            base = 1.0 / base;
         }
-        double res = 1.0;
-        while(exp>0){
-            if(exp%2==1)
-                res*=x;
-            x*=x;
-            exp/=2;
+        while (exp > 0) {
+            if (exp % 2 == 1) {
+                res *= base;
+            }
+
+            base *= base;
+            exp /= 2;
         }
-        return res;
+        return (double)res;
     }
 };
