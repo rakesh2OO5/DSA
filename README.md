@@ -56,6 +56,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0213-house-robber-ii](https://github.com/rakesh2OO5/DSA/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/rakesh2OO5/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/rakesh2OO5/DSA/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/rakesh2OO5/DSA/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/rakesh2OO5/DSA/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/rakesh2OO5/DSA/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/rakesh2OO5/DSA/tree/master/0334-increasing-triplet-subsequence) |
@@ -778,6 +779,7 @@ Each folder corresponds to a LeetCode problem and contains:
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rakesh2OO5/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/rakesh2OO5/DSA/tree/master/0238-product-of-array-except-self) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rakesh2OO5/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rakesh2OO5/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2485-find-the-pivot-integer](https://github.com/rakesh2OO5/DSA/tree/master/2485-find-the-pivot-integer) |
