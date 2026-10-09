@@ -356,6 +356,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rakesh2OO5/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rakesh2OO5/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1528-shuffle-string](https://github.com/rakesh2OO5/DSA/tree/master/1528-shuffle-string) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/rakesh2OO5/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rakesh2OO5/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/rakesh2OO5/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/rakesh2OO5/DSA/tree/master/1678-goal-parser-interpretation) |
@@ -577,6 +578,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rakesh2OO5/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1323-maximum-69-number](https://github.com/rakesh2OO5/DSA/tree/master/1323-maximum-69-number) |
 | [1382-balance-a-binary-search-tree](https://github.com/rakesh2OO5/DSA/tree/master/1382-balance-a-binary-search-tree) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/rakesh2OO5/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/rakesh2OO5/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/rakesh2OO5/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/rakesh2OO5/DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -618,6 +620,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [1021-remove-outermost-parentheses](https://github.com/rakesh2OO5/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rakesh2OO5/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rakesh2OO5/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/rakesh2OO5/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rakesh2OO5/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/rakesh2OO5/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/rakesh2OO5/DSA/tree/master/2375-construct-smallest-number-from-di-string) |
@@ -815,6 +818,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [1021-remove-outermost-parentheses](https://github.com/rakesh2OO5/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rakesh2OO5/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rakesh2OO5/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/rakesh2OO5/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rakesh2OO5/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Geometry
 |  |
