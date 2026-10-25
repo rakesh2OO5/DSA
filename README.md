@@ -39,6 +39,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0046-permutations](https://github.com/rakesh2OO5/DSA/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/rakesh2OO5/DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/rakesh2OO5/DSA/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/rakesh2OO5/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/rakesh2OO5/DSA/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rakesh2OO5/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rakesh2OO5/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -276,6 +277,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rakesh2OO5/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rakesh2OO5/DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/rakesh2OO5/DSA/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/rakesh2OO5/DSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rakesh2OO5/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/rakesh2OO5/DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/rakesh2OO5/DSA/tree/master/0141-linked-list-cycle) |
@@ -305,6 +307,7 @@ Each folder corresponds to a LeetCode problem and contains:
 |  |
 | ------- |
 | [0015-3sum](https://github.com/rakesh2OO5/DSA/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/rakesh2OO5/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rakesh2OO5/DSA/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/rakesh2OO5/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/rakesh2OO5/DSA/tree/master/0169-majority-element) |
@@ -825,6 +828,7 @@ Each folder corresponds to a LeetCode problem and contains:
 ## Bubble Sort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/rakesh2OO5/DSA/tree/master/0075-sort-colors) |
 | [1859-sorting-the-sentence](https://github.com/rakesh2OO5/DSA/tree/master/1859-sorting-the-sentence) |
 ## Bracket Sequences
 |  |
@@ -870,4 +874,8 @@ Each folder corresponds to a LeetCode problem and contains:
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/rakesh2OO5/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/rakesh2OO5/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
