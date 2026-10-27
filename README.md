@@ -878,4 +878,8 @@ Each folder corresponds to a LeetCode problem and contains:
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/rakesh2OO5/DSA/tree/master/0075-sort-colors) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/rakesh2OO5/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
