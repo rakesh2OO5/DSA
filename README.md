@@ -280,6 +280,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0075-sort-colors](https://github.com/rakesh2OO5/DSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rakesh2OO5/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/rakesh2OO5/DSA/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/rakesh2OO5/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/rakesh2OO5/DSA/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/rakesh2OO5/DSA/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/rakesh2OO5/DSA/tree/master/0189-rotate-array) |
@@ -347,6 +348,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0014-longest-common-prefix](https://github.com/rakesh2OO5/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/rakesh2OO5/DSA/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/rakesh2OO5/DSA/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/rakesh2OO5/DSA/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/rakesh2OO5/DSA/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/rakesh2OO5/DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/rakesh2OO5/DSA/tree/master/0387-first-unique-character-in-a-string) |
