@@ -63,6 +63,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0334-increasing-triplet-subsequence](https://github.com/rakesh2OO5/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/rakesh2OO5/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/rakesh2OO5/DSA/tree/master/0414-third-maximum-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/rakesh2OO5/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/rakesh2OO5/DSA/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/rakesh2OO5/DSA/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rakesh2OO5/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -213,6 +214,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0231-power-of-two](https://github.com/rakesh2OO5/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/rakesh2OO5/DSA/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/rakesh2OO5/DSA/tree/master/0412-fizz-buzz) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/rakesh2OO5/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/rakesh2OO5/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/rakesh2OO5/DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rakesh2OO5/DSA/tree/master/0628-maximum-product-of-three-numbers) |
