@@ -141,6 +141,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [3513-number-of-unique-xor-triplets-i](https://github.com/rakesh2OO5/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/rakesh2OO5/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/rakesh2OO5/DSA/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3693-climbing-stairs-ii](https://github.com/rakesh2OO5/DSA/tree/master/3693-climbing-stairs-ii) |
 | [3701-compute-alternating-sum](https://github.com/rakesh2OO5/DSA/tree/master/3701-compute-alternating-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/rakesh2OO5/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rakesh2OO5/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -183,6 +184,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [0918-maximum-sum-circular-subarray](https://github.com/rakesh2OO5/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1227-airplane-seat-assignment-probability](https://github.com/rakesh2OO5/DSA/tree/master/1227-airplane-seat-assignment-probability) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rakesh2OO5/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [3693-climbing-stairs-ii](https://github.com/rakesh2OO5/DSA/tree/master/3693-climbing-stairs-ii) |
 ## Binary Search
 |  |
 | ------- |
