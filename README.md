@@ -393,6 +393,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [1859-sorting-the-sentence](https://github.com/rakesh2OO5/DSA/tree/master/1859-sorting-the-sentence) |
 | [2000-reverse-prefix-of-word](https://github.com/rakesh2OO5/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/rakesh2OO5/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/rakesh2OO5/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/rakesh2OO5/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/rakesh2OO5/DSA/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2390-removing-stars-from-a-string](https://github.com/rakesh2OO5/DSA/tree/master/2390-removing-stars-from-a-string) |
@@ -749,6 +750,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [1929-concatenation-of-array](https://github.com/rakesh2OO5/DSA/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rakesh2OO5/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/rakesh2OO5/DSA/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/rakesh2OO5/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2293-min-max-game](https://github.com/rakesh2OO5/DSA/tree/master/2293-min-max-game) |
 | [2390-removing-stars-from-a-string](https://github.com/rakesh2OO5/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rakesh2OO5/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
