@@ -1,18 +1,18 @@
 class Solution {
 public:
     vector<int> sortArray(vector<int>& nums) {
+        int minEle = *min_element(nums.begin(),nums.end());
+        int maxEle = *max_element(nums.begin(),nums.end());
         unordered_map<int,int> mp;
         for(int num:nums){
             mp[num]++;
         }
-        int minE = *min_element(nums.begin(),nums.end());
-        int maxE = *max_element(nums.begin(),nums.end());
-        int idx = 0;
-        for(int num = minE ; num <= maxE ;num++){
-            while(mp[num]>0){
-                nums[idx] = num;
+        int idx=0;
+        for(int i=minEle;i<=maxEle;i++){
+            while(mp[i]>0){
+                nums[idx] = i;
                 idx++;
-                mp[num]--;
+                mp[i]--;
             }
         }
         return nums;
