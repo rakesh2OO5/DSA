@@ -403,6 +403,7 @@ Each folder corresponds to a LeetCode problem and contains:
 | [2490-circular-sentence](https://github.com/rakesh2OO5/DSA/tree/master/2490-circular-sentence) |
 | [2785-sort-vowels-in-a-string](https://github.com/rakesh2OO5/DSA/tree/master/2785-sort-vowels-in-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rakesh2OO5/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/rakesh2OO5/DSA/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [2942-find-words-containing-character](https://github.com/rakesh2OO5/DSA/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rakesh2OO5/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rakesh2OO5/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
